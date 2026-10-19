@@ -6,6 +6,7 @@ Homebrew tap for **[OFD预览](https://github.com/ChengRui24/OFD-preview-Mac)** 
 
 ```bash
 brew tap ChengRui24/ofd
+brew trust ChengRui24/ofd          # Homebrew 对第三方 tap 需要先信任
 brew install --cask ofd-preview
 ```
 
